@@ -1,0 +1,21 @@
+﻿  variance.cpp
+  linereader.cpp
+  matrix.cpp
+  string.cpp
+  stringfun.cpp
+  tablefun.cpp
+C:\Users\klin-bni\Dropbox\Takit64_190401\types\tablefun.cpp(515,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  tableindex.cpp
+  vector.cpp
+  consoleapp.cpp
+  environment.cpp
+  filehelpers.cpp
+  filesystem.cpp
+  stderr.cpp
+  stdout.cpp
+  caQTLseg.cpp
+C:\Users\klin-bni\Dropbox\Takit64_190401\tcaQTLseg\caQTLseg.cpp(1791,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  rand.cpp
+  statfun.cpp
+  Generating Code...
+  caQTLseg.vcxproj -> C:\Users\klin-bni\Dropbox\Takit64_190401\tcaQTLseg\.\Debug\caQTLseg.exe

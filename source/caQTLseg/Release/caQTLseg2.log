@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (.\Release\) contains files shared from another project (caQTLseg.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  variance.cpp
+  linereader.cpp
+  matrix.cpp
+  string.cpp
+  stringfun.cpp
+  tablefun.cpp
+C:\Users\klin-bni\Dropbox (Personal)\2021-caQTLseg\source\types\tablefun.cpp(515,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  tableindex.cpp
+  vector.cpp
+  consoleapp.cpp
+  environment.cpp
+  filehelpers.cpp
+  filesystem.cpp
+  stderr.cpp
+  stdout.cpp
+  caQTLseg2.cpp
+C:\Users\klin-bni\Dropbox (Personal)\2021-caQTLseg\source\tcaQTLseg2\caQTLseg2.cpp(2034,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  rand.cpp
+  statfun.cpp
+  Generating Code...
+  caQTLseg2.vcxproj -> C:\Users\klin-bni\Dropbox (Personal)\2021-caQTLseg\source\tcaQTLseg2\Release\caQTLseg2.exe

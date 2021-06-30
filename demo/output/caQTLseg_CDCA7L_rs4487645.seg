@@ -1,0 +1,2 @@
+ID	chrom	loc.start	loc.end	num.mark	L2norm_ratio	Lambda2_threshold	seg.mean
+caQTLseg	7	21897750	21899180	143	1.18309	49.6473	10

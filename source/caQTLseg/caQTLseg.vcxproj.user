@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\ATAC_seq_genotype_annotated.txt C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\data\cutsitefiles-2020-01-26 C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\testoutput\caQTLseg_SMARCD3_rs78740585 -rsid:rs78740585 -chr:7 -minbp:151237100 -maxbp:151279000 -binspacing:10 -binsize:150 -l1:1.00,1.025,1.05,1.075,1.10,1.125 -l2:0.03162,0.01,0.003162,0.001,0.0003162,0.0001,0.00003162,0.00001,0.000003162,0.000001 -p:200 -seg -fdr</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\ATAC_seq_genotype_annotated.txt C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\data\cutsitefiles-2020-01-26 C:\Users\klin-bni\Dropbox\2016-MM-MPRA-play\caQTLseg\testoutput\caQTLseg_SMARCD3_rs78740585 -rsid:rs78740585 -chr:7 -minbp:151237100 -maxbp:151279000 -binspacing:10 -binsize:150 -l1:1.00,1.025,1.05,1.075,1.10,1.125 -l2:0.03162,0.01,0.003162,0.001,0.0003162,0.0001,0.00003162,0.00001,0.000003162,0.000001 -p:200 -seg</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>testdata\ATAC_seq_genotype.txt</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
